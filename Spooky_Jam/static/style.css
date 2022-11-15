@@ -1,0 +1,9 @@
+body {
+    margin-top: 3em;
+    background-image: url("Halloween.jpeg");
+    background-size: cover;
+    color: rgb(233, 140, 0);
+    text-align: center;
+    font-size: 30pt;
+    font-family: "Copperplate", Fantasy;
+}
